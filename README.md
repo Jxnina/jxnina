@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Im Janina Pelli, a student at LAB University of Applied Sciences. 
+
 <!--
 **Jxnina/jxnina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
