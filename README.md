@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Studying ICT @ LAB 🎓 | Crafting websites & games 🌐🎮 | Mom of two tiny humans 👶👶 | Obsessed with interior design 🏡✨
+I'm Janina Pelli | Studying ICT @ LAB 🎓 | Crafting websites & games 🌐🎮 | Mom of two tiny humans 👶👶 | Obsessed with interior design 🏡✨
 
 <!--
 **Jxnina/jxnina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
